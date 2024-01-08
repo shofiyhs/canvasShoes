@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "707425814104",
+    "project_id": "canvas-6cc84",
+    "storage_bucket": "canvas-6cc84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707425814104:android:eeb63963869a9287fd2c2d",
+        "android_client_info": {
+          "package_name": "com.example.proyekakhir13439"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGpIE7xZQI56F1Vt3lgb1RfWO6JeCA10w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707425814104:android:8e16068d58141706fd2c2d",
+        "android_client_info": {
+          "package_name": "com.example.proyekakhir13493"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGpIE7xZQI56F1Vt3lgb1RfWO6JeCA10w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
